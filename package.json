@@ -1,0 +1,14 @@
+{
+  "name": "twitchbot",
+  "version": "1.0.0",
+  "description": "A simple twitch chat bot to practice with node!",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Kevin Graber",
+  "license": "ISC",
+  "dependencies": {
+    "tmi.js": "0.0.29"
+  }
+}
